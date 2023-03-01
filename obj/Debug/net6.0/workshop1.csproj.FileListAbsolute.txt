@@ -1,0 +1,15 @@
+C:\Users\MyComputer\Desktop\workshop1\bin\Debug\net6.0\workshop1.exe
+C:\Users\MyComputer\Desktop\workshop1\bin\Debug\net6.0\workshop1.deps.json
+C:\Users\MyComputer\Desktop\workshop1\bin\Debug\net6.0\workshop1.runtimeconfig.json
+C:\Users\MyComputer\Desktop\workshop1\bin\Debug\net6.0\workshop1.dll
+C:\Users\MyComputer\Desktop\workshop1\bin\Debug\net6.0\workshop1.pdb
+C:\Users\MyComputer\Desktop\workshop1\obj\Debug\net6.0\workshop1.csproj.AssemblyReference.cache
+C:\Users\MyComputer\Desktop\workshop1\obj\Debug\net6.0\workshop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyComputer\Desktop\workshop1\obj\Debug\net6.0\workshop1.AssemblyInfoInputs.cache
+C:\Users\MyComputer\Desktop\workshop1\obj\Debug\net6.0\workshop1.AssemblyInfo.cs
+C:\Users\MyComputer\Desktop\workshop1\obj\Debug\net6.0\workshop1.csproj.CoreCompileInputs.cache
+C:\Users\MyComputer\Desktop\workshop1\obj\Debug\net6.0\workshop1.dll
+C:\Users\MyComputer\Desktop\workshop1\obj\Debug\net6.0\refint\workshop1.dll
+C:\Users\MyComputer\Desktop\workshop1\obj\Debug\net6.0\workshop1.pdb
+C:\Users\MyComputer\Desktop\workshop1\obj\Debug\net6.0\workshop1.genruntimeconfig.cache
+C:\Users\MyComputer\Desktop\workshop1\obj\Debug\net6.0\ref\workshop1.dll
